@@ -43,7 +43,7 @@ Terraform was used to automate:
 ## Report
 The full project report is available here:
 
-`docs/Cloud_Architecture_Assignment_1_Report.pdf`
+[View Full Project Report](./Cloud%20Architecture%20(Report).pdf)
 
 ## Skills Demonstrated
 - AWS cloud infrastructure design
